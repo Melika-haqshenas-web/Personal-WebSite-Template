@@ -16,7 +16,7 @@
 
 ![7](https://user-images.githubusercontent.com/126666369/235309139-32eb67fe-fb43-44bf-babb-d9a585e902f0.jpg)
 
-- [Demo Project](https://melika-haqshenas-web.github.io/Building-Site/)
+- [Demo Project](https://melika-haqshenas-web.github.io/Personal-WebSite-Template/)
 
 👩‍💻- Developed by Melika-haqshenas-web
 
